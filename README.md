@@ -1,117 +1,68 @@
-[![npm](https://img.shields.io/npm/v/whatsapp-web.js.svg)](https://www.npmjs.com/package/whatsapp-web.js) [![Depfu](https://badges.depfu.com/badges/4a65a0de96ece65fdf39e294e0c8dcba/overview.svg)](https://depfu.com/github/pedroslopez/whatsapp-web.js?project_id=9765) ![WhatsApp_Web 2.2346.52](https://img.shields.io/badge/WhatsApp_Web-2.2346.52-brightgreen.svg) [![Discord Chat](https://img.shields.io/discord/698610475432411196.svg?logo=discord)](https://discord.gg/H7DqQs4)  
 
-# whatsapp-web.js
-A WhatsApp API client that connects through the WhatsApp Web browser app
+### Hi there 👋 My name verdi
 
-It uses Puppeteer to run a real instance of Whatsapp Web to avoid getting blocked.
+<p align="center">
+  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=haii'my+name+verdi+🗿🙏.;'suport+my+acount+github🗿." alt="verdibotz">
+</p>
+<img src="https://telegra.ph/file/6984723cbc2ab2d15e51c.jpg" alt="verdikawaii" width="360" />
 
-**NOTE:** I can't guarantee you will not be blocked by using this method, although it has worked for me. WhatsApp does not allow bots or unofficial clients on their platform, so this shouldn't be considered totally safe.
+</p>
 
-## Quick Links
+<p align="center">
+  <a href="https://github.com/verdihatorou"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=TIADA+YANG+INDAH;SELAIN'MELIHAT+MU" alt="Asu">
+</p>
 
-* [Guide / Getting Started](https://wwebjs.dev/guide) _(work in progress)_
-* [Reference documentation](https://docs.wwebjs.dev/)
-* [GitHub](https://github.com/pedroslopez/whatsapp-web.js)
-* [npm](https://npmjs.org/package/whatsapp-web.js)
+<!--
+**VERDIBOTZ1/VERDIBOTZ1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Installation
+Here are some ideas to get you started:
 
-The module is now available on npm! `npm i whatsapp-web.js`
+- 🔭 I’m currently working on .string.
+- 🌱 I’m currently learning .slow respons.
+- 👯 I’m looking to collaborate on .alow.
+- 🤔 I’m looking for help with .IT IS ME OWNER VERDI .
+- 💬 Ask me about .LOW.
+- 📫 How to reach me: .ME JAWATIMUR MOJOKERTO.
+- 😄 Pronouns: .MY IS MALE .
+- ⚡ Fun fact: ...
+-->
+[![VERDI](https://github.com/verdihatorou.png?size=100)](https://github.com/verdihatorou) </p>  `ITs me verdi`  </p>
 
-Please note that Node v12+ is required.
+ `tiada yang indah selain sediri`
 
-## Example usage
+:v
 
-```js
-const { Client } = require('whatsapp-web.js');
+![github stats](https://github-readme-stats.vercel.app/api?username=verdihatorou&show_icons=true&theme=radical)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=verdihatorou&layout=compact&theme=nightowl)
 
-const client = new Client();
+<h1 align="center">Hi 👋, my Verdihatrou</h1>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-client.on('qr', (qr) => {
-    // Generate and scan this code with your phone
-    console.log('QR RECEIVED', qr);
-});
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=verdihatorou&label=Profile%20views&color=0e75b6&style=flat" alt="verdihatorou" /> </p>
 
-client.on('ready', () => {
-    console.log('Client is ready!');
-});
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=verdihatorou" alt="verdihatorou" /></a> </p>
 
-client.on('message', msg => {
-    if (msg.body == '!ping') {
-        msg.reply('pong');
-    }
-});
+- 🔭 I’m currently working on [COLAB SCRIPT](https://github.com/BOTCAHX/RTXZY-MD)
 
-client.initialize();
-```
+- 👯 I’m looking to collaborate on [SCRIPT BOT MULTIAUTH](https://github.com/BOTCAHX/RTXZY-MD)
 
-Take a look at [example.js](https://github.com/pedroslopez/whatsapp-web.js/blob/master/example.js) for another example with more use cases.
+- 🤝 I’m looking for help with [![tio xd](https://github.com/BOTCAHX.png?size=100)](https://github.com/BOTCAHX) </p>  `tio rimek`  </p>
 
-For more information on saving and restoring sessions, check out the available [Authentication Strategies](https://wwebjs.dev/guide/authentication.html).
+- 💬 Ask me about **🗿yang know know aja**
 
+- 📫 How to reach me **verdixyzz@gmail.com**
 
-## Supported features
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/verdi kawai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="verdi kawai" height="30" width="40" /></a>
+<a href="https://instagram.com/verdi_zz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="verdi_zz" height="30" width="40" /></a>
+</p>
 
-| Feature  | Status |
-| ------------- | ------------- |
-| Multi Device  | ✅  |
-| Send messages  | ✅  |
-| Receive messages  | ✅  |
-| Send media (images/audio/documents)  | ✅  |
-| Send media (video)  | ✅ [(requires google chrome)](https://wwebjs.dev/guide/handling-attachments.html#caveat-for-sending-videos-and-gifs)  |
-| Send stickers | ✅ |
-| Receive media (images/audio/video/documents)  | ✅  |
-| Send contact cards | ✅ |
-| Send location | ✅ |
-| Send buttons | ❌ |
-| Send lists | ❌  [(DEPRECATED)](https://www.youtube.com/watch?v=hv1R1rLeVVE) |
-| Receive location | ✅ | 
-| Message replies | ✅ |
-| Join groups by invite  | ✅ |
-| Get invite for group  | ✅ |
-| Modify group info (subject, description)  | ✅  |
-| Modify group settings (send messages, edit info)  | ✅  |
-| Add group participants  | ✅  |
-| Kick group participants  | ✅  |
-| Promote/demote group participants | ✅ |
-| Mention users | ✅ |
-| Mute/unmute chats | ✅ |
-| Block/unblock contacts | ✅ |
-| Get contact info | ✅ |
-| Get profile pictures | ✅ |
-| Set user status message | ✅ |
-| React to messages | ✅ |
-| Vote in polls | 🔜 |
-| Create polls | ✅ |
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scully.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/scullyio/scully/main/assets/logos/SVG/scullyio-icon.svg" alt="scully" width="40" height="40"/> </a> <a href="https://sculpin.io/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/1782aef8672484698c0dd407f900c4a329ed5bc4/sculpin.svg" alt="sculpin" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-Something missing? Make an issue and let us know!
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/ko-fi.com/verdidev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/verdidev" /></a></p><br><br>
 
-## Contributing
-
-Pull requests are welcome! If you see something you'd like to add, please do. For drastic changes, please open an issue first.
-
-## Supporting the project
-
-You can support the maintainer of this project through the links below
-
-- [Support via GitHub Sponsors](https://github.com/sponsors/pedroslopez)
-- [Support via PayPal](https://www.paypal.me/psla/)
-- [Sign up for DigitalOcean](https://m.do.co/c/73f906a36ed4) and get $200 in credit when you sign up (Referral)
-
-## Disclaimer
-
-This project is not affiliated, associated, authorized, endorsed by, or in any way officially connected with WhatsApp or any of its subsidiaries or its affiliates. The official WhatsApp website can be found at https://whatsapp.com. "WhatsApp" as well as related names, marks, emblems and images are registered trademarks of their respective owners.
-
-## License
-
-Copyright 2019 Pedro S Lopez
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this project except in compliance with the License.
-You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=verdihatorou&show_icons=true&locale=en&layout=compact" alt="verdihatorou" /></p>
+y
