@@ -1,39 +1,32 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
-  <img src="https://img.shields.io/badge/-Html-black?style=flat-square&logo=html5" />
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
-</p>
+# [Welcome to My Profile! 👋](https://slavmnzz.dev)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/slavmnzz/&title=Profile%20Views)
 
-<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=slavmnzz&theme=dracula&hide_border=true)<br/>
-___
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slavmnzz&theme=dracula)
-___
+<details>
+  <summary>Q&A</summary>
 
-<p>Currently listening:</p>
+Q | A
+--- | --- 
+**My Computer(s)**  | `MacBook Pro M2 14"`, `MacBook Pro 2019 16" (Main)`, `MacBook Pro 2017 13"`
+**Editor**  | `Visual Studio Code`
+**Platforms I develop for** | `Desktop, Mobile, Web, CLI`
+**My Favorite Languages**  | `PHP, C++, JS, Python, Go, Swift`
 
-![](https://spotify-github-profile.vercel.app/api/view.svg?uid=31jlxhrwmfioxnorylcazb44ifwy&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)
-
-</div>
-
-<details><summary>📈 Stats</summary>
-<div align="center">
-<br>
-
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slavmnzz&theme=dracula" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slavmnzz&theme=dracula" />
-
-</div>
 </details>
 
-___
-<p align="center"><b>Visitors</b></p>
+<details>
+  <summary>Stats</summary>
 
+<table align="center">
+    <tr>
+        <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=slavmnzz&show_icons=true&theme=radical" /></td>
+    </tr>
+    <tr>
+        <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slavmnzz&theme=radical&layout=compact" /></td>
+    </tr>
+</table>
+
+</details>
 <div align="center">
-  
-  ![](https://count.getloli.com/get/@slavmnzz?theme=rule34)
-  
-</div>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=ar5xr05io7p2lrvlzz8cgpz7f&cover_image=false)" />
+  </div>
