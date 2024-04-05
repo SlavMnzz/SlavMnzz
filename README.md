@@ -1,19 +1,17 @@
 
-### Hi there 👋 My name verdi
-
 <p align="center">
-  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=haii'my+name+verdi+🗿🙏.;'suport+my+acount+github🗿." alt="verdibotz">
+  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=haii'my+name+fwrdyzz+🗿🙏.;'suport+my+acount+github🗿." alt="slavmnzz">
 </p>
-<img src="https://telegra.ph/file/6984723cbc2ab2d15e51c.jpg" alt="verdikawaii" width="360" />
+<img src="https://telegra.ph/file/6984723cbc2ab2d15e51c.jpg" alt="slavmnzz" width="360" />
 
 </p>
 
 <p align="center">
-  <a href="https://github.com/verdihatorou"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=TIADA+YANG+INDAH;SELAIN'MELIHAT+MU" alt="Asu">
+  <a href="https://github.com/slavmnzz"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=TIADA+YANG+INDAH;SELAIN'MELIHAT+MU" alt="Asu">
 </p>
 
 <!--
-**VERDIBOTZ1/VERDIBOTZ1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**slavmnzz1/slavmnzz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -26,21 +24,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: .MY IS MALE .
 - ⚡ Fun fact: ...
 -->
-[![VERDI](https://github.com/verdihatorou.png?size=100)](https://github.com/verdihatorou) </p>  `ITs me verdi`  </p>
+[![VERDI](https://github.com/slavmnzz.png?size=100)](https://github.com/slavmnzz) </p>  `ITs me verdi`  </p>
 
  `tiada yang indah selain sediri`
 
 :v
 
-![github stats](https://github-readme-stats.vercel.app/api?username=verdihatorou&show_icons=true&theme=radical)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=verdihatorou&layout=compact&theme=nightowl)
+![github stats](https://github-readme-stats.vercel.app/api?username=slavmnzz&show_icons=true&theme=radical)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=slavmnzz&layout=compact&theme=nightowl)
 
 <h1 align="center">Hi 👋, my Verdihatrou</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=verdihatorou&label=Profile%20views&color=0e75b6&style=flat" alt="verdihatorou" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=slavmnzz&label=Profile%20views&color=0e75b6&style=flat" alt="slavmnzz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=verdihatorou" alt="verdihatorou" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slavmnzz" alt="slavmnzz" /></a> </p>
 
 - 🔭 I’m currently working on [COLAB SCRIPT](https://github.com/BOTCAHX/RTXZY-MD)
 
@@ -64,5 +62,4 @@ Here are some ideas to get you started:
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ko-fi.com/verdidev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/verdidev" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=verdihatorou&show_icons=true&locale=en&layout=compact" alt="verdihatorou" /></p>
-y
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=slavmnzz&show_icons=true&locale=en&layout=compact" alt="slavmnzz" /></p>
