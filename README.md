@@ -1,4 +1,4 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fokusdotid&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slavmnzz&theme=dracula)
 ___
 
 <p>Currently listening:</p>
